@@ -1,4 +1,4 @@
-# Conquest Assistant
+<img width="1024" height="506" alt="github-banner" src="https://github.com/user-attachments/assets/1fa4829a-1acc-4576-876b-918fbb4ed0e6" />
 
 A free Discord ticket bot built with Node.js, discord.js v14, and SQLite.
 
