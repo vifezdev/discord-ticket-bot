@@ -20,7 +20,7 @@ client.commands = new Collection();
 function shutdown() {
   db.close();
   process.exit(0);
-}
+} // test
 
 (async () => {
   try {
